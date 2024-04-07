@@ -1,1 +1,2 @@
 # Digital-Education-Platform
+Led the development of a decentralized application aimed at providing a secure and transparent platform for organizations, professors, and students. Utilized Java to implement robust account creation and secure login functionalities. Employed Java Database Connectivity (JDBC) to establish seamless interaction with an Oracle database, ensuring efficient data management and retrieval. Engineered a comprehensive database system to store and manage diverse data sets related to organizations, professors, courses, and students.
