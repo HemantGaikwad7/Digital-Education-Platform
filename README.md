@@ -24,11 +24,6 @@ Before running InsureHub, ensure that the following prerequisites are met:
 2. Navigate through the user-friendly interface to manage insurance policies, customer information, and claims effortlessly.
 3. Leverage the various features provided by InsureHub for a comprehensive insurance management experience.
 
-## Contributors
-1. Hemant Gaikwad (gaikwad.he@northeastern.edu)
-2. Rasika Kole (kole.r@northeastern.edu)
-3. Rahul Prabhu (prabhu.rahu@northeastern.edu)
-
 ## License
 InsureHub is licensed under the MIT License - see the LICENSE.md file for details.
 
